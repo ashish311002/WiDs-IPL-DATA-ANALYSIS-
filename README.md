@@ -1,1 +1,1 @@
-# This is the repo for the IPL Data Analysis of the IPL Data Set
+# This is the repo for the Data Analysis of the IPL Data Set
